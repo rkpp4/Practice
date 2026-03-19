@@ -7,3 +7,4 @@ Quick text
 This line is from feature branch 🚀
 
 Line from main branch
+Different line from feature branch
